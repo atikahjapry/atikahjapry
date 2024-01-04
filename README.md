@@ -8,7 +8,6 @@
 - This is my portfolio of work. Or something relevant. I will also explain my work in a youtube video section its in progress. ( youtube link coming soon) 
 - This shows my proof of work (projects, contributions, consistency, quality of code, etc.)
 - It shows my code quality.
-- My rate is £100 per hr due to my global experiences. This is decent value i could provide at one off.
 -  Recurrent collaboration could bring down the value to a point where we shall agreed further. 
 <!---
 atikahjapry/atikahjapry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
