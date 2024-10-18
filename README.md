@@ -8,8 +8,7 @@
 - 📫 Reach me by message on linkedin Atikah Japry is my LinkedIn handle
 - This is my portfolio of work. Or something relevant. I will also explain my work in a youtube video section its in progress. ( youtube link coming soon) 
 - This shows my proof of work (projects, contributions, consistency, quality of code, etc.)
-- It shows my code quality.
--  Recurrent collaboration could bring down the value to a point where we shall agreed further. 
+
 <!---
 atikahjapry/atikahjapry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
